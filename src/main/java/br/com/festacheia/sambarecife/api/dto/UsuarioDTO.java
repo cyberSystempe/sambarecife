@@ -10,6 +10,7 @@ public class UsuarioDTO {
 	private String telefone;
 	
 	private String ddd;
+	
 
 	public Long getId() {
 		return id;
